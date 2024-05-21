@@ -4,9 +4,6 @@
 A.S. 2023/2024
 Progetto Convention
 
-## LINK AL PROGETTO (troppo grande da caricare su digipad)
-https://github.com/MattiaBracco05/Convention.git
-
 ## CREAZIONE DEL DATABASE
 
 ### Metodo 1 - Creazione tramite file
